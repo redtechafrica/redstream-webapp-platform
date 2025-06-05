@@ -1,0 +1,123 @@
+/* Instead of importing Google Fonts via @import, we'll use Next.js font system */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 222 20% 12%;
+  --foreground: 0 0% 95%;
+  --card: 222 20% 15%;
+  --card-foreground: 0 0% 95%;
+  --popover: 222 20% 15%;
+  --popover-foreground: 0 0% 95%;
+  --primary: 25 36% 41%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 222 20% 18%;
+  --secondary-foreground: 0 0% 95%;
+  --muted: 222 15% 25%;
+  --muted-foreground: 0 0% 70%;
+  --accent: 25 36% 41%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 100%;
+  --border: 222 20% 25%;
+  --input: 222 20% 25%;
+  --ring: 25 36% 41%;
+  --radius: 0.5rem;
+  --sidebar-background: 0 0% 98%;
+  --sidebar-foreground: 240 5.3% 26.1%;
+  --sidebar-primary: 240 5.9% 10%;
+  --sidebar-primary-foreground: 0 0% 98%;
+  --sidebar-accent: 240 4.8% 95.9%;
+  --sidebar-accent-foreground: 240 5.9% 10%;
+  --sidebar-border: 220 13% 91%;
+  --sidebar-ring: 217.2 91.2% 59.8%;
+}
+
+.dark {
+  --background: 222 20% 12%;
+  --foreground: 0 0% 95%;
+  --card: 222 20% 15%;
+  --card-foreground: 0 0% 95%;
+  --popover: 222 20% 15%;
+  --popover-foreground: 0 0% 95%;
+  --primary: 25 36% 41%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 222 20% 18%;
+  --secondary-foreground: 0 0% 95%;
+  --muted: 222 15% 25%;
+  --muted-foreground: 0 0% 70%;
+  --accent: 25 36% 41%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 100%;
+  --border: 222 20% 25%;
+  --input: 222 20% 25%;
+  --ring: 25 36% 41%;
+  --chart-1: 220 70% 50%;
+  --chart-2: 160 60% 45%;
+  --chart-3: 30 80% 55%;
+  --chart-4: 280 65% 60%;
+  --chart-5: 340 75% 55%;
+  --sidebar-background: 240 5.9% 10%;
+  --sidebar-foreground: 240 4.8% 95.9%;
+  --sidebar-primary: 224.3 76.3% 48%;
+  --sidebar-primary-foreground: 0 0% 100%;
+  --sidebar-accent: 240 3.7% 15.9%;
+  --sidebar-accent-foreground: 240 4.8% 95.9%;
+  --sidebar-border: 240 3.7% 15.9%;
+  --sidebar-ring: 217.2 91.2% 59.8%;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-appbg text-foreground;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-semibold;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #8f5f43;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a67a5f;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
