@@ -18,8 +18,8 @@ const seriesData = [
     title: "Night of the Kings",
     description:
       "Follow the intertwined lives of Lagos residents as they navigate love, power, and ambition in Nigeria's most vibrant city.",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn45.png?alt=media&token=4acefdc8-e914-43a6-a901-6cbe214badcb",
-    banner: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn451.webp?alt=media&token=d82e545d-5232-4f64-94da-64db9dda0130",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn45.png?alt=media&token=4acefdc8-e914-43a6-a901-6cbe214badcb",
+    banner: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn451.webp?alt=media&token=d82e545d-5232-4f64-94da-64db9dda0130",
     genre: ["Drama", "Romance"],
     year: "2023",
     seasonsCount: 3,
@@ -28,7 +28,7 @@ const seriesData = [
     cast: ["Genevieve Nnaji", "Richard Mofe-Damijo", "Adesua Etomi"],
     creator: "Kemi Adetiba",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
     seasons: [
       {
         number: 1,
@@ -76,8 +76,8 @@ const seriesData = [
     title: "Nowhere in Africa",
     description:
       "A wildlife photographer uncovers dark secrets in a small town on the edge of the savannah, putting her life in danger.",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn47.webp?alt=media&token=b4a71e83-59fd-440e-98e2-bf7483a3d0c1",
-    banner: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn471.jpg?alt=media&token=22689ad6-18f8-4a1f-a88c-44e61b0c203f",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn47.webp?alt=media&token=b4a71e83-59fd-440e-98e2-bf7483a3d0c1",
+    banner: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn471.jpg?alt=media&token=22689ad6-18f8-4a1f-a88c-44e61b0c203f",
     genre: ["Mystery", "Thriller"],
     year: "2024",
     seasonsCount: 1,
@@ -86,7 +86,7 @@ const seriesData = [
     cast: ["Lupita Nyong'o", "Chiwetel Ejiofor", "John Boyega"],
     creator: "Amma Asante",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F2.mp4?alt=media&token=b4569c4e-3336-4b6b-abce-ca9f72401920",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F2.mp4?alt=media&token=b4569c4e-3336-4b6b-abce-ca9f72401920",
     seasons: [
       {
         number: 1,
@@ -110,8 +110,8 @@ const seriesData = [
     title: "Abejoye",
     description:
       "In pre-colonial Africa, two rival kingdoms must unite against a common enemy threatening their existence.",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn48.webp?alt=media&token=9cbb1af1-aeb4-4082-8295-4d6345aeb872",
-    banner: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn481.jpg?alt=media&token=64d988d9-a3ce-45a2-b580-3dc72d998c82",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn48.webp?alt=media&token=9cbb1af1-aeb4-4082-8295-4d6345aeb872",
+    banner: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn481.jpg?alt=media&token=64d988d9-a3ce-45a2-b580-3dc72d998c82",
     genre: ["Action", "Historical"],
     year: "2022",
     seasonsCount: 2,
@@ -120,7 +120,7 @@ const seriesData = [
     cast: ["Daniel Kaluuya", "Danai Gurira", "Winston Duke"],
     creator: "Ryan Coogler",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F3.mp4?alt=media&token=046adf1f-6fda-4d05-bf6a-5c27e1eecdb5",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F3.mp4?alt=media&token=046adf1f-6fda-4d05-bf6a-5c27e1eecdb5",
     seasons: [
       {
         number: 1,
@@ -155,8 +155,8 @@ const seriesData = [
     title: "Rogue Heroes",
     description:
       "The personal and professional lives of doctors at Nairobi's busiest hospital as they face medical challenges and personal dilemmas.",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn49.jpg?alt=media&token=51b18a54-de01-4054-94d5-1a255880af10",
-    banner: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn491.jpg?alt=media&token=77996f4b-bb11-48f3-9cc0-648d0af81e83",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn49.jpg?alt=media&token=51b18a54-de01-4054-94d5-1a255880af10",
+    banner: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn491.jpg?alt=media&token=77996f4b-bb11-48f3-9cc0-648d0af81e83",
     genre: ["Drama", "Medical"],
     year: "2023",
     seasonsCount: 4,
@@ -165,7 +165,7 @@ const seriesData = [
     cast: ["Wunmi Mosaku", "David Oyelowo", "Thuso Mbedu"],
     creator: "Shonda Rhimes",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
     seasons: [
       {
         number: 1,

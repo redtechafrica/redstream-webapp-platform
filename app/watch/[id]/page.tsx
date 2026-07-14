@@ -39,8 +39,8 @@ const mockVideos = {
     description:
       "A sorceress travels to the Lost Lands to acquire a mysterious ability, facing dangerous creatures and a warrior who accompanies her on the perilous journey.",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
-    thumbnailUrl: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn.jpg?alt=media&token=372f1cc1-9d34-401b-88f5-0b737c09ef19",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
+    thumbnailUrl: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn.jpg?alt=media&token=372f1cc1-9d34-401b-88f5-0b737c09ef19",
     genre: ["Adventure", "Drama", "Fantasy"],
     year: "2023",
     duration: "1h 45m",
@@ -60,8 +60,8 @@ const mockVideos = {
     description:
       "In a crime-ridden city, a detective with a troubled past must solve a series of ritualistic murders while confronting his own demons.",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F2.mp4?alt=media&token=b4569c4e-3336-4b6b-abce-ca9f72401920",
-    thumbnailUrl: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn7.jpg?alt=media&token=e8308564-83e9-4ef2-a158-632a70e2b1bf",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F2.mp4?alt=media&token=b4569c4e-3336-4b6b-abce-ca9f72401920",
+    thumbnailUrl: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn7.jpg?alt=media&token=e8308564-83e9-4ef2-a158-632a70e2b1bf",
     genre: ["Action", "Thriller", "Crime"],
     year: "2023",
     duration: "2h 10m",
@@ -81,8 +81,8 @@ const mockVideos = {
     description:
       "When a natural disaster strikes a coastal city, a team of first responders must race against time to save lives while dealing with their personal crises.",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F3.mp4?alt=media&token=046adf1f-6fda-4d05-bf6a-5c27e1eecdb5",
-    thumbnailUrl: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn28.webp?alt=media&token=33c69483-c83c-4797-8b5f-98f98fba9be9",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F3.mp4?alt=media&token=046adf1f-6fda-4d05-bf6a-5c27e1eecdb5",
+    thumbnailUrl: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn28.webp?alt=media&token=33c69483-c83c-4797-8b5f-98f98fba9be9",
     genre: ["Drama", "Thriller", "Action"],
     year: "2022",
     duration: "1h 55m",
@@ -101,9 +101,9 @@ const mockVideos = {
     title: "Wife of Honour",
     description:
       "A tennis coach finds herself caught in a complex love triangle with her husband and his former best friend, both professional tennis players.",
-    thumbnailUrl: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn18.jpg?alt=media&token=8d442f24-2352-4b5f-98cb-6950b4c4825c",
+    thumbnailUrl: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn18.jpg?alt=media&token=8d442f24-2352-4b5f-98cb-6950b4c4825c",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
     genre: ["Drama", "Sport", "Romance"],
     year: "2024",
     duration: "2h 10m",
@@ -122,9 +122,9 @@ const mockVideos = {
     title: "Love In Every Word",
     description:
       "A renowned poet returns to her hometown and reconnects with her childhood sweetheart, discovering that their shared love of language might rekindle their romance.",
-    thumbnailUrl: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2F31.png?alt=media&token=62ad5b5b-768b-40ab-b047-73bce9089029",
+    thumbnailUrl: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2F31.png?alt=media&token=62ad5b5b-768b-40ab-b047-73bce9089029",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F2.mp4?alt=media&token=b4569c4e-3336-4b6b-abce-ca9f72401920",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F2.mp4?alt=media&token=b4569c4e-3336-4b6b-abce-ca9f72401920",
     genre: ["Romance", "Drama"],
     year: "2022",
     duration: "1h 45m",
@@ -837,7 +837,7 @@ export default function WatchPage() {
                   >
                     <div className="aspect-square rounded-md bg-gray-700 mb-2 overflow-hidden">
                       <Image
-                        src="https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Frichard-mofe-damijo.png?alt=media&token=e37fdaa1-6a83-4647-b46c-75e50479f56b"
+                        src="https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Frichard-mofe-damijo.png?alt=media&token=e37fdaa1-6a83-4647-b46c-75e50479f56b"
                         alt={actor}
                         width={100}
                         height={100}

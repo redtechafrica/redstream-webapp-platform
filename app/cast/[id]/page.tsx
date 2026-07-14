@@ -13,56 +13,56 @@ const castMembers = {
   c1: {
     id: "c1",
     name: "Amara Kente",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Famara-kente.png?alt=media&token=bbb58a0a-1bb5-4b4d-ac50-c9deae5fa2f8",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Famara-kente.png?alt=media&token=bbb58a0a-1bb5-4b4d-ac50-c9deae5fa2f8",
     bio: "Amara Kente is a rising star in African cinema, known for her powerful performances and emotional depth. Born in Ghana and raised in South Africa, she brings a unique perspective to her roles.",
     filmography: [1, 3, 5],
   },
   c2: {
     id: "c2",
     name: "David Oyelowo",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Fdavid-oyelowo.png?alt=media&token=cc16c553-80b1-4396-b4b0-7c302fbddfdb",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Fdavid-oyelowo.png?alt=media&token=cc16c553-80b1-4396-b4b0-7c302fbddfdb",
     bio: "David Oyelowo is a British-American actor and producer. He has played supporting roles in the films Rise of the Planet of the Apes, Lincoln, and Jack Reacher. His accolades include a Critics' Choice Award and two Golden Globe Award nominations.",
     filmography: [1, 4],
   },
   c3: {
     id: "c3",
     name: "Lupita Nyong'o",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Fadesua-etomi.png?alt=media&token=ec8d0eb6-ea1a-4282-98c6-61fa57047032",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Fadesua-etomi.png?alt=media&token=ec8d0eb6-ea1a-4282-98c6-61fa57047032",
     bio: "Lupita Nyong'o is a Kenyan-Mexican actress. She made her feature film debut with a supporting role in the action film Non-Stop, followed by her breakthrough role in 12 Years a Slave, for which she received critical acclaim.",
     filmography: [1, 6],
   },
   c4: {
     id: "c4",
     name: "Michael B. Jordan",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Frichard-mofe-damijo.png?alt=media&token=e37fdaa1-6a83-4647-b46c-75e50479f56b",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Frichard-mofe-damijo.png?alt=media&token=e37fdaa1-6a83-4647-b46c-75e50479f56b",
     bio: "Michael B. Jordan is an American actor and producer. He is known for his roles in Fruitvale Station, Creed, and Black Panther. He has been named one of the 100 most influential people in the world by Time magazine.",
     filmography: [2, 4],
   },
   c5: {
     id: "c5",
     name: "Tessa Thompson",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Fgenevieve-nnaji.png?alt=media&token=7e09021b-3e18-43d9-88f9-e3e7e1bb56ab",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Fgenevieve-nnaji.png?alt=media&token=7e09021b-3e18-43d9-88f9-e3e7e1bb56ab",
     bio: "Tessa Thompson is an American actress, producer, and singer. She began her professional acting career with the Los Angeles Women's Shakespeare Company. She has starred in various films and television series.",
     filmography: [2, 5],
   },
   c6: {
     id: "c6",
     name: "Jonathan Majors",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Fidris-elba.png?alt=media&token=47180e04-478f-4ad2-b042-6a78fe349ca2",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Fidris-elba.png?alt=media&token=47180e04-478f-4ad2-b042-6a78fe349ca2",
     bio: "Jonathan Majors is an American actor. He rose to prominence after starring in the independent feature film The Last Black Man in San Francisco. He has since appeared in several major productions including Lovecraft Country and Ant-Man and the Wasp: Quantumania, establishing himself as one of Hollywood's most versatile actors.",
     filmography: [2, 3],
   },
   c7: {
     id: "c7",
     name: "Priyanka Chopra",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Fadesua-etomi.png?alt=media&token=ec8d0eb6-ea1a-4282-98c6-61fa57047032",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Fadesua-etomi.png?alt=media&token=ec8d0eb6-ea1a-4282-98c6-61fa57047032",
     bio: "Priyanka Chopra Jonas is an Indian actress, model, and singer. She is one of India's highest-paid actresses and has received numerous accolades including a National Film Award and five Filmfare Awards.",
     filmography: [3, 5],
   },
   c8: {
     id: "c8",
     name: "John David Washington",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Frichard-mofe-damijo.png?alt=media&token=e37fdaa1-6a83-4647-b46c-75e50479f56b",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Frichard-mofe-damijo.png?alt=media&token=e37fdaa1-6a83-4647-b46c-75e50479f56b",
     bio: "John David Washington is an American actor and former football running back. He is known for his roles in BlacKkKlansman, Tenet, and Malcolm & Marie.",
     filmography: [3, 4],
   },
@@ -73,44 +73,44 @@ const mockVideos = {
   "1": {
     id: "1",
     title: "Killer Advice",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn.jpg?alt=media&token=372f1cc1-9d34-401b-88f5-0b737c09ef19",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn.jpg?alt=media&token=372f1cc1-9d34-401b-88f5-0b737c09ef19",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
   },
   "2": {
     id: "2",
     title: "Middle (Aarin)",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn7.jpg?alt=media&token=e8308564-83e9-4ef2-a158-632a70e2b1bf",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn7.jpg?alt=media&token=e8308564-83e9-4ef2-a158-632a70e2b1bf",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F2.mp4?alt=media&token=b4569c4e-3336-4b6b-abce-ca9f72401920",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F2.mp4?alt=media&token=b4569c4e-3336-4b6b-abce-ca9f72401920",
   },
   "3": {
     id: "3",
     title: "4th Republic",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn28.webp?alt=media&token=33c69483-c83c-4797-8b5f-98f98fba9be9",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn28.webp?alt=media&token=33c69483-c83c-4797-8b5f-98f98fba9be9",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F3.mp4?alt=media&token=046adf1f-6fda-4d05-bf6a-5c27e1eecdb5",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F3.mp4?alt=media&token=046adf1f-6fda-4d05-bf6a-5c27e1eecdb5",
   },
   "4": {
     id: "4",
     title: "Wife of Honour",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn18.jpg?alt=media&token=8d442f24-2352-4b5f-98cb-6950b4c4825c",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn18.jpg?alt=media&token=8d442f24-2352-4b5f-98cb-6950b4c4825c",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F1.mp4?alt=media&token=8f6afba3-47f1-4f16-975e-75e084e06bf0",
   },
   "5": {
     id: "5",
     title: "Love In Every Word",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2F31.png?alt=media&token=62ad5b5b-768b-40ab-b047-73bce9089029",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2F31.png?alt=media&token=62ad5b5b-768b-40ab-b047-73bce9089029",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F2.mp4?alt=media&token=b4569c4e-3336-4b6b-abce-ca9f72401920",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F2.mp4?alt=media&token=b4569c4e-3336-4b6b-abce-ca9f72401920",
   },
   "6": {
     id: "6",
     title: "Lugard",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn6.jpeg?alt=media&token=7b7fc719-8480-4f74-849e-baed834ef989",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn6.jpeg?alt=media&token=7b7fc719-8480-4f74-849e-baed834ef989",
     videoUrl:
-      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2F3.mp4?alt=media&token=046adf1f-6fda-4d05-bf6a-5c27e1eecdb5",
+      "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2F3.mp4?alt=media&token=046adf1f-6fda-4d05-bf6a-5c27e1eecdb5",
   },
 }
 

@@ -15,7 +15,7 @@ const documentaries = [
   {
     id: "d1",
     title: "Princess Oma: The Strong Warrior",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn38.jpg?alt=media&token=61259419-2af4-4978-9ca0-cb8b016ed79c",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn38.jpg?alt=media&token=61259419-2af4-4978-9ca0-cb8b016ed79c",
     tags: [
       { text: "NEW", type: "new" },
       { text: "Documentary", type: "genre" },
@@ -27,7 +27,7 @@ const documentaries = [
   {
     id: "d2",
     title: "Oloture",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn41.jpg?alt=media&token=04eed53d-a004-4933-a641-e198e0f48859",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn41.jpg?alt=media&token=04eed53d-a004-4933-a641-e198e0f48859",
     tags: [
       { text: "Documentary", type: "genre" },
       { text: "8.2", type: "rating" },
@@ -39,7 +39,7 @@ const documentaries = [
   {
     id: "d3",
     title: "Japa!",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn40.webp?alt=media&token=89a3ad8d-7be3-4f84-8655-0462671c61bc",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn40.webp?alt=media&token=89a3ad8d-7be3-4f84-8655-0462671c61bc",
     tags: [{ text: "Documentary", type: "genre" }],
     year: "2023",
     duration: "1h 30m",
@@ -48,7 +48,7 @@ const documentaries = [
   {
     id: "d4",
     title: "October 1",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn39.webp?alt=media&token=57de0426-d243-458e-a0ef-b0a1d5f46236",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn39.webp?alt=media&token=57de0426-d243-458e-a0ef-b0a1d5f46236",
     tags: [{ text: "Documentary", type: "genre" }],
     year: "2022",
     duration: "1h 55m",
@@ -57,7 +57,7 @@ const documentaries = [
   {
     id: "d5",
     title: "Anikulapo",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn43.jpg?alt=media&token=2435dda7-34e7-4d36-b79f-89a0385f8833",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn43.jpg?alt=media&token=2435dda7-34e7-4d36-b79f-89a0385f8833",
     tags: [
       { text: "Documentary", type: "genre" },
       { text: "9.1", type: "rating" },
@@ -69,7 +69,7 @@ const documentaries = [
   {
     id: "d6",
     title: "Dry",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn42.jpeg?alt=media&token=90e248dd-cf43-4a96-bffa-d7695c6a3d39",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn42.jpeg?alt=media&token=90e248dd-cf43-4a96-bffa-d7695c6a3d39",
     tags: [
       { text: "NEW", type: "new" },
       { text: "Documentary", type: "genre" },
@@ -81,7 +81,7 @@ const documentaries = [
   {
     id: "d7",
     title: "The Trade",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn44.jpg?alt=media&token=943426e2-40d0-427e-af42-27b817390229",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn44.jpg?alt=media&token=943426e2-40d0-427e-af42-27b817390229",
     tags: [{ text: "Documentary", type: "genre" }],
     year: "2023",
     duration: "1h 20m",
@@ -90,7 +90,7 @@ const documentaries = [
   {
     id: "d8",
     title: "Penance",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn46.jpg?alt=media&token=95621295-1e1a-4593-9c7c-b9ea2d2f4ba7",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn46.jpg?alt=media&token=95621295-1e1a-4593-9c7c-b9ea2d2f4ba7",
     tags: [
       { text: "Documentary", type: "genre" },
       { text: "8.7", type: "rating" },
@@ -150,7 +150,7 @@ export default function DocumentariesPage() {
           <h2 className="text-2xl font-semibold mb-4">Featured Documentary</h2>
           <div className="relative rounded-xl overflow-hidden aspect-video">
             <img
-              src="https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn37.jpeg?alt=media&token=d5e7170a-948d-4cf8-8205-1475311ccf4f"
+              src="https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn37.jpeg?alt=media&token=d5e7170a-948d-4cf8-8205-1475311ccf4f"
               alt="Featured Documentary"
               className="w-full h-full object-cover"
             />

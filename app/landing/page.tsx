@@ -13,27 +13,27 @@ const featuredContent = [
   {
     id: 1,
     title: "Lakatabu",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn50.jpeg?alt=media&token=f5a71e19-73a1-41e8-a5d7-a7175e9ff785",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn50.jpeg?alt=media&token=f5a71e19-73a1-41e8-a5d7-a7175e9ff785",
   },
   {
     id: 2,
     title: "Woman King",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn52.jpeg?alt=media&token=be7dcb7c-b8ff-498e-bf47-611493d7515b",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn52.jpeg?alt=media&token=be7dcb7c-b8ff-498e-bf47-611493d7515b",
   },
   {
     id: 3,
     title: "Anikulapo",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn54.jpeg?alt=media&token=16fbfa55-3983-4194-946e-cdaa64ab4e13",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn54.jpeg?alt=media&token=16fbfa55-3983-4194-946e-cdaa64ab4e13",
   },
   {
     id: 4,
     title: "Amina",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn53.jpeg?alt=media&token=dbd8ee87-6f82-4280-a7a9-0466aa42ec18",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn53.jpeg?alt=media&token=dbd8ee87-6f82-4280-a7a9-0466aa42ec18",
   },
   {
     id: 5,
     title: "Tough Luv",
-    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/REDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn55.jpeg?alt=media&token=6577a312-30aa-4eae-a569-8a49b6bd219f",
+    image: "https://firebasestorage.googleapis.com/v0/b/icdatinnovation.appspot.com/o/Other%20Projects%2FREDSTREAM%20WEBAPP%20PLATFORM%2Fthumbnails%2Ftn55.jpeg?alt=media&token=6577a312-30aa-4eae-a569-8a49b6bd219f",
   },
 ]
 
