@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "deploy": "next build && firebase deploy",
-    "preinstall": "node preinstall.js"
+    "preinstall": "echo 'Ready'"
   },
   "dependencies": {
     "@emotion/is-prop-valid": "latest",
